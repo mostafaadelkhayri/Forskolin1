@@ -374,6 +374,11 @@
             "Theme"
           ],
           "_name": "form2",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "form2-5",
           "_params": {
             "paddingTop": 3,
@@ -401,15 +406,15 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\">SUBSCRIBE</a>",
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\">SUBSCRIBE</a>"
         },
         {
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
           "_anchor": "footer1-10",
           "_params": {
             "paddingTop": "3",
@@ -423,18 +428,18 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "2017 <a href=\"Welcome\" class=\"text-warning\">Bodyshaping.tk</a>",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          }
+          "text": "2017 <a href=\"Welcome\" class=\"text-warning\">Bodyshaping.tk</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "social-buttons1",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "social-buttons1-1",
           "_params": {
             "paddingTop": "1",
@@ -453,12 +458,7 @@
             "google": true,
             "twitter": true
           },
-          "text": "SHARE THIS PAGE!<br>",
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#ffffff"
-            }
-          }
+          "text": "SHARE THIS PAGE!<br>"
         }
       ]
     },
