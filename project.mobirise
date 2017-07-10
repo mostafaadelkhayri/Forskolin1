@@ -92,7 +92,7 @@
               "text-align": "left"
             },
             ".btn": {
-              "font-size": "100px",
+              "font-size": "60px",
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
             }
