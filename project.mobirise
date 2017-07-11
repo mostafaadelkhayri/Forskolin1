@@ -15,7 +15,7 @@
     "path": "file:///C:/Users/Livingroom/AppData/Local/Mobirise.com/Mobirise/projects/project-2016-06-26_211008",
     "screenshot": "screenshot.png",
     "noImageResize": "",
-    "uniqCompNum": 9
+    "uniqCompNum": 12
   },
   "pages": {
     "Welcome": {
@@ -76,9 +76,9 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"http://itrks.com/direct/?cid=366601&amp;uid=27214&amp;sc=1\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">The Hottest Weight Loss Solution<br></a>",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"Welcome\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">The Hottest Weight Loss Solution<br></a>",
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Welcome\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Contact Us\"><span class=\"mbri-contact-form mbr-iconfont mbr-iconfont-btn\"></span>CONTACT</a></li>",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-success\" data-app-selector=\".mbr-navbar__items a\" href=\"http://itrks.com/direct/?cid=366601&amp;uid=27214&amp;sc=1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn-parent\"></span>Get&nbsp;Your FREE Trial Bottle</a></li> "
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-success\" data-app-selector=\".mbr-navbar__items a\" href=\"Welcome\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn-parent\"></span>Get&nbsp;Your FREE Trial Bottle</a></li> "
         },
         {
           "_inherit": "header1",
@@ -120,7 +120,7 @@
           },
           "title": "Weight loss solution",
           "text": "Wherever you are, tell us to get your FREE weight loss product.",
-          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"http://itrks.com/direct/?cid=366601&amp;uid=27214&amp;sc=1\" data-toolbar=\"-mbrBtnMove\">Get Your Bottle NOw<br>FREE<br></a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"Welcome\" data-toolbar=\"-mbrBtnMove\">Get Your Bottle NOw<br>FREE<br></a>"
         },
         {
           "_inherit": "msg-box5",
@@ -189,7 +189,7 @@
           "title": "Safe",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>This product is safe to use, and FDA certified.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"http://hqlinkz.com/direct/?cid=366601&amp;uid=27214&amp;sc=1\" data-toolbar=\"-mbrBtnMove\">Get it Now FREE</a>"
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"Welcome\" data-toolbar=\"-mbrBtnMove\">Get it Now FREE</a>"
         },
         {
           "_inherit": "msg-box5",
@@ -260,7 +260,7 @@
           "title": "Natural",
           "meta": "By John Smith posted July 30, 2015",
           "text": "Because it is found in the roots of the coleus forskohlii plant, an herb that belongs to the mint family. &nbsp;Researchers have discovered that it helps break down stored fat and increases lean muscle mass. This incredible weight management breakthrough is helping countless men and women lose belly fat and retain toned muscle naturally.",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://hqlinkz.com/direct/?cid=366601&amp;uid=27214&amp;sc=1\" data-toolbar=\"-mbrBtnMove\">Get it Now FREE</a> "
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"Welcome\" data-toolbar=\"-mbrBtnMove\">Get it Now FREE</a> "
         },
         {
           "_inherit": "msg-box5",
@@ -331,7 +331,7 @@
           "title": "Effective",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<ol><li>Because It Burns Stubborn Fat</li><li>Builds Lean Muscle</li><li>Improves Your Metabolism</li></ol>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://hqlinkz.com/direct/?cid=366601&amp;uid=27214&amp;sc=1\" data-toolbar=\"-mbrBtnMove\">Get it Now FREE</a> "
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"Welcome\" data-toolbar=\"-mbrBtnMove\">Get it Now FREE</a> "
         },
         {
           "_inherit": "msg-box1",
@@ -367,7 +367,7 @@
           },
           "title": "Don't miss &nbsp;summer times!!<br>",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://itrks.com/direct/?cid=366601&amp;uid=27214\" data-toolbar=\"-mbrBtnMove\">Get Your trial FOR FREE</a>"
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"Welcome\" data-toolbar=\"-mbrBtnMove\">Get Your trial FOR FREE</a>"
         },
         {
           "_tags": [
@@ -437,7 +437,10 @@
           "_name": "social-buttons1",
           "_styles": {
             ".mbr-header__text": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "36px"
             }
           },
           "_anchor": "social-buttons1-1",
@@ -458,7 +461,7 @@
             "google": true,
             "twitter": true
           },
-          "text": "SHARE THIS PAGE!<br>"
+          "text": "SHaRing IS CaRing!<br>"
         }
       ]
     },
@@ -637,10 +640,13 @@
           "_name": "social-buttons1",
           "_styles": {
             ".mbr-header__text": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "36px"
             }
           },
-          "_anchor": "social-buttons1-8",
+          "_anchor": "social-buttons1-b",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
@@ -653,12 +659,12 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "inverse": false,
-            "counters": true,
+            "counters": false,
             "facebook": true,
             "google": true,
             "twitter": true
           },
-          "text": "SHARE THIS PAGE!"
+          "text": "SHARing IS CaRing!<br>"
         }
       ]
     }

@@ -2,6 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 
 
+
 #ext_menu-9 .mbr-brand__name {
   font-size: 16px;
 }
@@ -70,7 +71,10 @@
 }
 #social-buttons1-1 .mbr-header__text {
   color: #ffffff;
+  font-family: 'Indie Flower', cursive;
+  font-size: 36px;
 }
+
 #ext_menu-2 .mbr-brand__name {
   font-size: 16px;
 }
@@ -89,6 +93,8 @@
 #form2-6 .mbr-header__text {
   color: #ffffff;
 }
-#social-buttons1-8 .mbr-header__text {
+#social-buttons1-b .mbr-header__text {
   color: #ffffff;
+  font-family: 'Indie Flower', cursive;
+  font-size: 36px;
 }
